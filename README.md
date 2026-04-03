@@ -6,7 +6,8 @@ A simple and clean currency converter app built with Flutter. Instantly convert 
 
 ## 🎬 Demo
 
-https://github.com/your-username/currency_converter/blob/main/assets/demo.mp4
+[https://github.com/your-username/currency_converter/blob/main/assets/demo.mp4
+](https://github.com/user-attachments/assets/972a2386-11d6-4c1a-88aa-3de68fc785a1)
 
 ---
 
