@@ -1,16 +1,39 @@
-# currency_converter
+# 💱 Currency Converter
 
-A new Flutter project.
+A simple and clean currency converter app built with Flutter. Instantly convert US Dollars to Pakistani Rupees!
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎬 Demo
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/your-username/currency_converter/blob/main/assets/demo.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+
+- 💵 Converts US Dollar (USD) to Pakistani Rupee (PKR)
+- 🔢 Simple and intuitive input field
+- 📱 Clean, minimal UI built with Flutter
+- ⚡ Fast and lightweight
+
+---
+
+## 🏗️ Project Structure
+
+```
+lib/
+├── main.dart                        # App entry point
+└── currency_converter_screen.dart   # Main currency converter screen
+```
+
+---
+
+## 🛠️ Built With
+
+- [Flutter](https://flutter.dev/) — cross-platform UI framework
+- [Dart](https://dart.dev/) — programming language
+
+---
+
+> _Exchange rates, simplified._ 🌍
